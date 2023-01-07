@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-Shoppify is an online E-Commerce Web Application where users can buy electorincs at lowest prices. Users can register themselves, post reviews, order products and can pay thorugh PayPal and Debit/Credit cards.</td>
+Shoppify is an online E-Commerce Web Application where users can buy electronics at the lowest prices. Users can register themselves, post reviews, order products and can pay through PayPal and Debit/Credit cards.</td>
 </tr>
 </table>
 
